@@ -12,7 +12,8 @@ public class Hello {
         System.out.println("I want go home");
         System.out.println("My name is Kim Dong Hyeon");
         System.out.println("My dog's name is Teayang, and he is 12 years old");
-        System.out.println("My hobbies are soccer and gamees")
-        System.out.println("I attend the Big Data Software Department at a polytechnic college")
+        System.out.println("My hobbies are soccer and gamees");
+        System.out.println("I attend the Big Data Software Department at a polytechnic college");
+        System.out.println("Edit Java code!!");
     }
 }
